@@ -1,0 +1,8 @@
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\bin\Debug\Mercle_Hellman.deps.json
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\bin\Debug\Mercle_Hellman.runtimeconfig.json
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\bin\Debug\Mercle_Hellman.exe
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\bin\Debug\Mercle_Hellman.dll
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\bin\Debug\Mercle_Hellman.pdb
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\obj\Debug\docker-compose.dcproj.CopyComplete

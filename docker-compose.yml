@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mercle_hellman:
+    image: ${DOCKER_REGISTRY-}merclehellman
+    build:
+      context: .
+      dockerfile: Mercle_Hellman/Dockerfile

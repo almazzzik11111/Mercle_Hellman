@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mercle_Hellman": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

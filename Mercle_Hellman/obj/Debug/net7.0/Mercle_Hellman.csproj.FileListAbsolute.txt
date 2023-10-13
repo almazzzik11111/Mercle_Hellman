@@ -1,0 +1,15 @@
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\bin\Debug\net7.0\Mercle_Hellman.exe
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\bin\Debug\net7.0\Mercle_Hellman.deps.json
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\bin\Debug\net7.0\Mercle_Hellman.runtimeconfig.json
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\bin\Debug\net7.0\Mercle_Hellman.dll
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\bin\Debug\net7.0\Mercle_Hellman.pdb
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.AssemblyInfoInputs.cache
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.AssemblyInfo.cs
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.dll
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\refint\Mercle_Hellman.dll
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.pdb
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\Mercle_Hellman.genruntimeconfig.cache
+C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\obj\Debug\net7.0\ref\Mercle_Hellman.dll

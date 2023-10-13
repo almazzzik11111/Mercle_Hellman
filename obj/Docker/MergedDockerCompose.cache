@@ -1,0 +1,12 @@
+name: dockercompose437542188960123556
+services:
+  mercle_hellman:
+    build:
+      context: C:\Users\Настя\Desktop\Криптография\Mercle_Hellman
+      dockerfile: Mercle_Hellman/Dockerfile
+    image: merclehellman
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose437542188960123556_default
