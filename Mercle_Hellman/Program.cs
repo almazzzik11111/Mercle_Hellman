@@ -8,19 +8,22 @@ namespace Mercle_Hellman
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] w = { 2, 7, 11, 21, 42, 89, 180, 354 }; //Закрытый ключ - последовательность весов для задачи укладки сверхвозрастающего ранца
             int q = 881; //Значение q должно быть больше суммы всех чисел последовательности
             int r = 588; //Значение r должно быть взаимно простым числом с модулем
             int[] beta = GetPublicKey(w, q, r);
 
-            string value = Environment.GetEnvironmentVariable("tmp_value"); //GetEnvironmentVariable возвращает из текущего процесса значение переменной среды, которое будет передано для зашифровки
-            Console.Write("Текст который нужно зашифровать: " + value);
-            //string plainText = Console.ReadLine();
+            //Environment.GetEnvironmentVariables(); //GetEnvironmentVariable возвращает из текущего процесса значение переменной среды, которое будет передано для зашифровки
+            //Console.Write("Введите текст который нужно зашифровать: " );
+            string plainText = "hello, Mercle Hellman! :)";
             
-            //int[] encoded = Encrypt(plainText, beta);
-            int[] encoded = Encrypt(value, beta);
+
+            int[] encoded = Encrypt(plainText, beta);
+
+            Console.Write("Tекст который нужно зашифровать: " + plainText);
+            //int[] encoded = Encrypt(value, beta);
             Console.WriteLine("\nЗашифрованный текст: ");
             int count = 0;
 
@@ -38,7 +41,7 @@ namespace Mercle_Hellman
             if (count > 0) Console.WriteLine();
             string decoded = Decrypt(encoded, w, q, r);
             Console.WriteLine("\nРасшифрованный текст: {0}", decoded);
-            Console.ReadKey();
+            Console.Read();
 
         }
 
