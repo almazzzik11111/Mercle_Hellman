@@ -21,6 +21,5 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "Mercle_Hellman.dll"]
-#ENV tmp_value = "hello, Mercle Hellman! :)"
 
 CMD ["dotnet", "Program.cs"]
