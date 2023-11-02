@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mercle_Hellman
-build_property.ProjectDir = C:\Users\Настя\Desktop\Криптография\Mercle_Hellman\Mercle_Hellman\
+build_property.ProjectDir = C:\Users\Настя\Desktop\Криптография\Mercle_Hellman_dokercompose\Mercle_Hellman\

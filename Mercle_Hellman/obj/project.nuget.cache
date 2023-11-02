@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J45vIYcJdgw74LfEEoL1AO9btgUeZ6S+YzNRY7z6QAMeFKNMPxQm4qMxPfUKI2rlIvl4jb16E9fjAsQFDPq1WQ==",
+  "dgSpecHash": "uPywD94arDSjNfDzAX3rZjRh7YDOIWzeU75asTZhjfcAhl5jwCHSYK5rFeGge7X+7Ne38meHoQ/e++cuDZyXPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman\\Mercle_Hellman\\Mercle_Hellman.csproj",
+  "projectFilePath": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman_dokercompose\\Mercle_Hellman\\Mercle_Hellman.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Настя\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
   ],

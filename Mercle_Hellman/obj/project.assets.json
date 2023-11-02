@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman\\Mercle_Hellman\\Mercle_Hellman.csproj",
+      "projectUniqueName": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman_dokercompose\\Mercle_Hellman\\Mercle_Hellman.csproj",
       "projectName": "Mercle_Hellman",
-      "projectPath": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman\\Mercle_Hellman\\Mercle_Hellman.csproj",
+      "projectPath": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman_dokercompose\\Mercle_Hellman\\Mercle_Hellman.csproj",
       "packagesPath": "C:\\Users\\Настя\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman\\Mercle_Hellman\\obj\\",
+      "outputPath": "C:\\Users\\Настя\\Desktop\\Криптография\\Mercle_Hellman_dokercompose\\Mercle_Hellman\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Настя\\AppData\\Roaming\\NuGet\\NuGet.Config",
