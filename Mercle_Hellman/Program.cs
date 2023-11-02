@@ -14,16 +14,11 @@ namespace Mercle_Hellman
             int q = 881; //Значение q должно быть больше суммы всех чисел последовательности
             int r = 588; //Значение r должно быть взаимно простым числом с модулем
             int[] beta = GetPublicKey(w, q, r);
-
-            //Environment.GetEnvironmentVariables(); //GetEnvironmentVariable возвращает из текущего процесса значение переменной среды, которое будет передано для зашифровки
-            //Console.Write("Введите текст который нужно зашифровать: " );
-            string plainText = "hello, Mercle Hellman! :)";
             
-
+            string plainText = "Hello, world!";
             int[] encoded = Encrypt(plainText, beta);
 
             Console.Write("Tекст который нужно зашифровать: " + plainText);
-            //int[] encoded = Encrypt(value, beta);
             Console.WriteLine("\nЗашифрованный текст: ");
             int count = 0;
 
